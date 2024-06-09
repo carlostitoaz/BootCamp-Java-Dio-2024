@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class TryCatch{
     public static void main(String[] args){
-
+/* 
         try{
             Scanner leia = new Scanner(System.in);
 
@@ -20,7 +20,7 @@ public class TryCatch{
 
         }catch(InputMismatchException e){
             System.out.println("O campo idade precisa ser numerico e inteiro");
-        }
+        }*/
         
     }
         
