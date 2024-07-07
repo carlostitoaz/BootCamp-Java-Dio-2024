@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BootCamp-Java-Dio-2024.iml" filepath="$PROJECT_DIR$/.idea/BootCamp-Java-Dio-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api-2024/collections-java-api-2024.iml" filepath="$PROJECT_DIR$/collections-java-api-2024/collections-java-api-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugging2-java/debugging2-java.iml" filepath="$PROJECT_DIR$/debugging2-java/debugging2-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-poo/desafio-poo.iml" filepath="$PROJECT_DIR$/desafio-poo/desafio-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-type/generics-type.iml" filepath="$PROJECT_DIR$/generics-type/generics-type.iml" />
+    </modules>
+  </component>
+</project>
